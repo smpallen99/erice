@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
-#labels IC,Featured,Phase-Design,IDL,CORBA
+#labels Reference
 
 =简介=
 
