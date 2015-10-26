@@ -1,0 +1,1 @@
+This is a project which tries to provide an Ice(Internet Communication Engine, see http://www.zeroc.com) extension for Erlang programming language, include both client and server side Slice-to-Erlang mapping and a slice2erlang compiler.
